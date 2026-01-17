@@ -1,22 +1,48 @@
 # MinecraftButInGTA5
-*Fight against Zombies, Creepers and Skeletons in GTA V!*
-This mod spawns Zombies, Creepers and Skeletons during night time in GTA V. 
->Zombies just attack you with their fist. They spawn every second.
->Creepers are portrayed through the Jay Norris character model and always run towards you and explode if they are in a radius of 6 meters of you. They spawn every 5 seconds.
->Skeletons are portrayed through the Jesus character model and are equiped with a firework launcher(this kills you in two shots). They spawn every 10 seconds and tries to shoot at you every second. (Sometimes they attack other mobs🤷‍♂️)
 
-#Installation
-**Prerequisites:**
--GTA V(of course)
--[Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
--[Script Hook V Dot Net](https://github.com/scripthookvdotnet/scripthookvdotnet/releases) or [Script Hook V Dot Net Enhanced](https://github.com/Chiheb-Bacha/ScriptHookVDotNetEnhanced) for the Enhanced Version(at least this worked for me, you might also try the nightly builds of the normal SHVDN)
+*Fight against Zombies, Creepers, and Skeletons in GTA V!*
 
-**How to Install:**
--Download the MinecraftMobs.dll file
--Go to your GTA V installation folder
--Create a folder there named "scripts"
--Copy the MinecraftMobs.dll file into the newly created "scripts" folder
--Launch the game and enjoy
+This mod spawns Zombies, Creepers, and Skeletons during nighttime in GTA V.
 
-#Video
-To see how I created the mod and how it looks, check out my youtube video I made about it: 
+- **Zombies**  
+  Attack you with their fists.  
+  Spawn rate: every second.
+
+- **Creepers**  
+  Portrayed using the Jay Norris character model.  
+  Always run toward you and explode if they are within a radius of 6 meters.  
+  Spawn rate: every 5 seconds.
+
+- **Skeletons**  
+  Portrayed using the Jesus character model.  
+  Equipped with a firework launcher (kills you in two shots).  
+  Spawn rate: every 10 seconds.  
+  Attempt to shoot at you every second.  
+  *(Sometimes they attack other mobs 🤷‍♂️)*
+
+---
+
+## Installation
+
+### Prerequisites
+
+- GTA V (of course)
+- [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
+- [Script Hook V Dot Net](https://github.com/scripthookvdotnet/scripthookvdotnet/releases)  
+  **or**  
+  [Script Hook V Dot Net Enhanced](https://github.com/Chiheb-Bacha/ScriptHookVDotNetEnhanced) for the Enhanced version  
+  *(This worked for me; you may also try nightly builds of the normal SHVDN.)*
+
+### How to Install
+
+1. Download the `MinecraftMobs.dll` file.
+2. Go to your GTA V installation folder.
+3. Create a folder named `scripts`.
+4. Copy `MinecraftMobs.dll` into the newly created `scripts` folder.
+5. Launch the game and enjoy.
+
+---
+
+## Video
+
+To see how I created the mod and how it looks, check out my YouTube video about it:
